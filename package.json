@@ -1,0 +1,25 @@
+{
+  "name": "drdep",
+  "version": "1.0.0",
+  "description": "A command-line tool for finding and removing unused dependencies from an npm project",
+  "bin": {
+    "drdep": "drdep.sh"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  },
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/Ghavan/drdep"
+  },
+  "license": "MIT",
+  "keywords": [
+    "npm",
+    "dependencies",
+    "unused"
+  ],
+  "author": {
+    "name": "Ghavan",
+    "email": "ghavanv@gmail.com"
+  }
+}
